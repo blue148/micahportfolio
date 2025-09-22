@@ -1,5 +1,5 @@
 import React from 'react';
-import { projects } from '../../data/projects';
+import { projects } from '../../data/projects.mdx';
 import Container from '../ui/Container';
 import { ExternalLink } from 'lucide-react';
 

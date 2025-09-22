@@ -156,6 +156,9 @@
   .card-primary {
     @apply rounded-2xl shadow p-6 bg-white bg-opacity-70 fade-in;
   }
+  .info-card{
+    @apply rounded-2xl shadow p-6 bg-white bg-opacity-70 fade-in;
+  }
   /* Responsive heading adjustments for mobile */
   @media (max-width: 640px) {
     .prose h1 { font-size: 2rem; } /* 32px */
